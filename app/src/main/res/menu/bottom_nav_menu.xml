@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ai_chat"
+        android:icon="@drawable/ic_message"
+        android:title="@string/ai_chat" />
+    <item
+        android:id="@+id/navigation_lottery"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/lottery" />
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_account_box"
+        android:title="@string/user" />
+
+</menu>
